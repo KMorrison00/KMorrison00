@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KMorrison00
+- Currently a Biomedical Engineering Informatics student at UBC (transferring to compsci) this is my space where I pursue personal software projects
+- Youll find a bunch of projects exploring machine learning and a few attempts at at various types of other software development
