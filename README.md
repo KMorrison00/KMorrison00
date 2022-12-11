@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KMorrison00
-- Currently a Computer Science student at The University of London (UK) this is my space where I pursue personal software projects
+- Computer Science student at The University of London (UK) this is my space where I pursue personal software projects
 - Youll find a bunch of projects exploring machine learning and a few attempts at various types of passive income generation
 - Checkout my Full-stack React game at https://github.com/KMorrison00/knuckleheads and https://github.com/KMorrison00/knuckleheads-server
 - Or play it with a friend at https://knuckleheads.glitch.me/
